@@ -1,9 +1,11 @@
 {
     "animal_id":"todays_date_XXX",
     "rc":"false",
-    "stim_amps":"1",
-    "stim_duration_min":"20",
+    "stim_mA":1.0,
+    "stim_duration_min":20,
     "stim_freq_hz":5,
+    "type":"sham",
+    "species":"lewis",
     "samples":{
         "source":{
             "peripheral":{
