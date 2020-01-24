@@ -16,10 +16,10 @@
                                 "analytes":{
                                     "nk_percent_1":2.53,
                                     "nk_percent_2":2.53,
-                                    "tcell_percent_1":null,
-                                    "tcell_percent_2":null,
-                                    "cytotoxic_t_percent_1":null,
-                                    "cytotoxic_t_percent_2":null,
+                                    "tcell_percent_1":40.59,
+                                    "tcell_percent_2":40.59,
+                                    "cytotoxic_t_percent_1":2.696,
+                                    "cytotoxic_t_percent_2":2.696,
                                     "epinephrine_1":null,
                                     "epinephrine_2":null
                                 }
@@ -32,10 +32,10 @@
                                 "analytes":{
                                     "nk_percent_1":2.92,
                                     "nk_percent_2":2.92,
-                                    "tcell_percent_1":null,
-                                    "tcell_percent_2":null,
-                                    "cytotoxic_t_percent_1":null,
-                                    "cytotoxic_t_percent_2":null,
+                                    "tcell_percent_1":44.432,
+                                    "tcell_percent_2":44.432,
+                                    "cytotoxic_t_percent_1":2.578,
+                                    "cytotoxic_t_percent_2":2.578,
                                     "epinephrine_1":null,
                                     "epinephrine_2":null
                                 }
@@ -48,10 +48,10 @@
                                 "analytes":{
                                     "nk_percent_1":4.601,
                                     "nk_percent_2":4.601,
-                                    "tcell_percent_1":null,
-                                    "tcell_percent_2":null,
-                                    "cytotoxic_t_percent_1":null,
-                                    "cytotoxic_t_percent_2":null,
+                                    "tcell_percent_1":48.555,
+                                    "tcell_percent_2":48.555,
+                                    "cytotoxic_t_percent_1":2.39,
+                                    "cytotoxic_t_percent_2":2.39,
                                     "epinephrine_1":null,
                                     "epinephrine_2":null
                                 }
