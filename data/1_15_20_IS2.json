@@ -1,9 +1,9 @@
 {
-    "animal_id":"todays_date_XXX",
+    "animal_id":"1_15_20_IS2",
     "rc":"false",
-    "stim_mA":1.5,
+    "stim_mA":null,
     "stim_duration_min":20,
-    "stim_freq_hz":5,
+    "stim_freq_hz":null,
     "type":"sham",
     "species":"sprague-dawley",
     "samples":{
@@ -14,8 +14,8 @@
                         "treatment":{
                             "none":{
                                 "analytes":{
-                                    "nk_percent_1":null,
-                                    "nk_percent_2":null,
+                                    "nk_percent_1":3.237,
+                                    "nk_percent_2":3.113,
                                     "tcell_percent_1":null,
                                     "tcell_percent_2":null,
                                     "cytotoxic_t_percent_1":null,
@@ -30,8 +30,8 @@
                         "treatment":{
                             "none":{
                                 "analytes":{
-                                    "nk_percent_1":null,
-                                    "nk_percent_2":null,
+                                    "nk_percent_1":5.287,
+                                    "nk_percent_2":5.407,
                                     "tcell_percent_1":null,
                                     "tcell_percent_2":null,
                                     "cytotoxic_t_percent_1":null,
@@ -46,8 +46,8 @@
                         "treatment":{
                             "none":{
                                 "analytes":{
-                                    "nk_percent_1":null,
-                                    "nk_percent_2":null,
+                                    "nk_percent_1":10.019,
+                                    "nk_percent_2":10.447,
                                     "tcell_percent_1":null,
                                     "tcell_percent_2":null,
                                     "cytotoxic_t_percent_1":null,
@@ -62,8 +62,8 @@
                         "treatment":{
                             "none":{
                                 "analytes":{
-                                    "nk_percent_1":null,
-                                    "nk_percent_2":null,
+                                    "nk_percent_1":7.865,
+                                    "nk_percent_2":7.685,
                                     "tcell_percent_1":null,
                                     "tcell_percent_2":null,
                                     "cytotoxic_t_percent_1":null,
@@ -78,8 +78,8 @@
                         "treatment":{
                             "none":{
                                 "analytes":{
-                                    "nk_percent_1":null,
-                                    "nk_percent_2":null,
+                                    "nk_percent_1":8.991,
+                                    "nk_percent_2":9.259,
                                     "tcell_percent_1":null,
                                     "tcell_percent_2":null,
                                     "cytotoxic_t_percent_1":null,

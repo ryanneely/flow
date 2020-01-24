@@ -1,9 +1,9 @@
 {
-    "animal_id":"todays_date_XXX",
+    "animal_id":"1_10_20_TM1",
     "rc":"false",
-    "stim_mA":1.5,
+    "stim_mA":null,
     "stim_duration_min":20,
-    "stim_freq_hz":5,
+    "stim_freq_hz":null,
     "type":"sham",
     "species":"sprague-dawley",
     "samples":{
@@ -14,8 +14,8 @@
                         "treatment":{
                             "none":{
                                 "analytes":{
-                                    "nk_percent_1":null,
-                                    "nk_percent_2":null,
+                                    "nk_percent_1":2.53,
+                                    "nk_percent_2":2.53,
                                     "tcell_percent_1":null,
                                     "tcell_percent_2":null,
                                     "cytotoxic_t_percent_1":null,
@@ -30,8 +30,8 @@
                         "treatment":{
                             "none":{
                                 "analytes":{
-                                    "nk_percent_1":null,
-                                    "nk_percent_2":null,
+                                    "nk_percent_1":2.92,
+                                    "nk_percent_2":2.92,
                                     "tcell_percent_1":null,
                                     "tcell_percent_2":null,
                                     "cytotoxic_t_percent_1":null,
@@ -46,8 +46,8 @@
                         "treatment":{
                             "none":{
                                 "analytes":{
-                                    "nk_percent_1":null,
-                                    "nk_percent_2":null,
+                                    "nk_percent_1":4.601,
+                                    "nk_percent_2":4.601,
                                     "tcell_percent_1":null,
                                     "tcell_percent_2":null,
                                     "cytotoxic_t_percent_1":null,
